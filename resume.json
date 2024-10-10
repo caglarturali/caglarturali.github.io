@@ -1,153 +1,158 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Richard Hendriks",
-    "label": "Programmer",
-    "image": "",
-    "email": "richard.hendriks@mail.com",
-    "phone": "(912) 555-4321",
-    "url": "http://richardhendricks.example.com",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinal!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "name": "Çağlar Turalı",
+    "label": "Web Developer",
+    "image": "https://avatars.githubusercontent.com/u/23704367?v=4",
+    "email": "caglarturali@pm.me",
+    "phone": "",
+    "url": "https://turali.js.org",
+    "summary": "I'm a software developer with a solid mix of self-driven learning and formal training, along with a few years of hands-on professional experience. I've worked on projects in web development, mobile apps, game creation, and VR, with a recent focus on mastering JavaScript and TypeScript. I enjoy diving deep into the core of the languages, beyond just using the latest tools. My approach is grounded in practical coding and finding creative solutions to technical challenges.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "Ankara",
+      "countryCode": "TR",
+      "region": ""
     },
     "profiles": [
       {
         "network": "GitHub",
-        "username": "neutralthoughts",
-        "url": "https://github.com/neutralthoughts"
+        "username": "caglarturali",
+        "url": "https://github.com/caglarturali"
       },
       {
         "network": "LinkedIn",
-        "username": "neutralthoughts",
-        "url": "https://linkedin.com/in/neutralthoughts"
+        "username": "caglarturali",
+        "url": "https://linkedin.com/in/caglarturali"
       },
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": "https://twitter.com/neutralthoughts"
-      },
-      {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "FrontendMasters",
+        "username": "caglarturali",
+        "url": "https://frontendmasters.com/u/caglarturali"
       }
     ]
   },
   "work": [
     {
-      "name": "Pied Piper",
-      "location": "Palo Alto, CA",
-      "description": "Awesome compression company",
-      "position": "CEO/President",
-      "url": "http://piedpiper.example.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
+      "name": "Metakod",
+      "location": "Ankara, TR",
+      "description": "ERP consultancy company",
+      "position": "Software Developer",
+      "url": "https://metakod.com.tr",
+      "startDate": "2021-03-01",
+      "endDate": "2024-01-01",
+      "summary": "Metakod is a software consultancy company that specializes in Odoo, an open-source ERP solution.",
       "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
+        "Built custom Odoo modules from the ground up",
+        "Created mobile apps that seamlessly interface with the modules",
+        "Designed PDF reports for various purposes, ranging from product labels to sales reports"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "url": "http://coderdojo.example.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": ["Awarded 'Teacher of the Month'"]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Oklahoma",
-      "url": "https://www.ou.edu/",
-      "area": "Information Technology",
+      "institution": "Kirikkale University",
+      "url": "https://kku.edu.tr",
+      "area": "Computer Education and Instructional Technology",
       "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "score": "4.0",
-      "courses": ["DB1101 - Basic SQL", "CS2011 - Java Introduction"]
-    }
-  ],
-  "awards": [
+      "startDate": "2010-09-01",
+      "endDate": "2017-09-01",
+      "score": "",
+      "courses": [
+        "Programming Languages",
+        "Computer Hardware",
+        "Operating Systems and Applications",
+        "Computer Networks and Communication",
+        "Database Management Systems",
+        "Web Programming",
+        "Web Design",
+        "Project Development and Management"
+      ]
+    },
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "institution": "Kirikkale University",
+      "url": "https://kku.edu.tr",
+      "area": "Physics",
+      "studyType": "[Dropout]",
+      "startDate": "2008-09-01",
+      "endDate": "2010-06-01",
+      "score": "",
+      "courses": []
     }
   ],
+  "awards": [],
   "certificates": [
     {
-      "name": "Certificate",
-      "date": "2021-11-07",
-      "issuer": "Company",
-      "url": "https://certificate.com"
-    }
-  ],
-  "publications": [
+      "name": "Object Oriented Programming Specialization",
+      "date": "2024-01-26",
+      "issuer": "Coursera | University of London",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/BPFTR4EGP4Q9"
+    },
     {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "url": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      "name": "C Programming with Linux Specialization",
+      "date": "2023-11-19",
+      "issuer": "Coursera | Dartmouth College",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/L8CKJD6GSBJC"
+    },
+    {
+      "name": "Full-Stack Web Development with React Specialization",
+      "date": "2019-03-23",
+      "issuer": "Coursera | The Hong Kong University of Science and Technology",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/XGPU5C68VAEE"
     }
   ],
+  "publications": [],
   "skills": [
     {
       "name": "Web Development",
-      "level": "Master",
-      "keywords": ["HTML", "CSS", "Javascript"]
+      "level": "Expert",
+      "keywords": ["JavaScript", "TypeScript"]
     },
     {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": ["Mpeg", "MP4", "GIF"]
+      "name": "Mobile Development",
+      "level": "Experienced",
+      "keywords": ["React Native", "Flutter"]
     }
   ],
   "languages": [
     {
-      "language": "English",
+      "language": "Turkish",
       "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Proficient"
+    },
+    {
+      "language": "German",
+      "fluency": "Beginner"
     }
   ],
   "interests": [
     {
-      "name": "Wildlife",
-      "keywords": ["Ferrets", "Unicorns"]
-    }
-  ],
-  "references": [
+      "name": "Psychology"
+    },
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Popular Science"
     }
   ],
+  "references": [],
   "projects": [
     {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
+      "name": "this",
+      "description": "JSON Resume–compatible personal website",
       "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+        "Built using React, TypeScript and, Tailwind CSS",
+        "Features a mobile– and print friendly layout"
       ],
-      "keywords": ["GoogleMaps", "Chrome Extension", "Javascript"],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "http://missdirection.example.com",
-      "roles": ["Team lead", "Designer"],
-      "entity": "Smoogle",
+      "keywords": ["JSON Resume", "React", "Tailwind CSS"],
+      "startDate": "2024-09-25",
+      "endDate": "",
+      "url": "https://turali.js.org",
+      "roles": ["Developer", "Designer"],
+      "entity": "",
       "type": "application"
     }
   ]
