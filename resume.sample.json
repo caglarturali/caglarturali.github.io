@@ -17,24 +17,14 @@
     },
     "profiles": [
       {
-        "network": "GitHub",
-        "username": "neutralthoughts",
-        "url": "https://github.com/neutralthoughts"
-      },
-      {
-        "network": "LinkedIn",
-        "username": "neutralthoughts",
-        "url": "https://linkedin.com/in/neutralthoughts"
-      },
-      {
         "network": "Twitter",
         "username": "neutralthoughts",
-        "url": "https://twitter.com/neutralthoughts"
+        "url": "https://www.twitter.com"
       },
       {
         "network": "SoundCloud",
         "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "url": "https://soundcloud.example.com/dandymusicnl"
       }
     ]
   },
