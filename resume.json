@@ -132,10 +132,12 @@
   ],
   "interests": [
     {
-      "name": "Psychology"
+      "name": "Psychology",
+      "keywords": []
     },
     {
-      "name": "Popular Science"
+      "name": "Popular Science",
+      "keywords": []
     }
   ],
   "references": [],
