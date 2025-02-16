@@ -7,7 +7,7 @@
     "email": "caglarturali@pm.me",
     "phone": "",
     "url": "https://turali.js.org",
-    "summary": "I'm a software developer with a solid mix of self-driven learning and formal training, along with a few years of hands-on professional experience. I've worked on projects in web development, mobile apps, game creation, and VR, with a recent focus on mastering JavaScript and TypeScript. I enjoy diving deep into the core of the languages, beyond just using the latest tools. My approach is grounded in practical coding and finding creative solutions to technical challenges.",
+    "summary": "I'm a software developer with a solid mix of self-driven learning and formal training, along with a few years of hands-on professional experience. I've worked on projects in web development, mobile apps, game creation, and VR, with a recent focus on mastering Java and its ecosystem. I enjoy diving deep into the core of the languages, beyond just using the latest tools. My approach is grounded in practical coding and finding creative solutions to technical challenges.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -107,8 +107,8 @@
   "skills": [
     {
       "name": "Web Development",
-      "level": "Expert",
-      "keywords": ["JavaScript", "TypeScript"]
+      "level": "Experienced",
+      "keywords": ["Python", "JavaScript", "TypeScript"]
     },
     {
       "name": "Mobile Development",
